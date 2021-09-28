@@ -1,16 +1,2 @@
-# flutter_sprintsday5
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# flutter_sprints_task7
+<image src='https://user-images.githubusercontent.com/90774185/135147527-2a71c098-0e1a-47a4-9149-4d829481a64d.gif' height='680' width='360'>
